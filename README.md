@@ -15,7 +15,7 @@
 ## 🛠 Skills
 - C++
 - Python (learning)
-- VB.NET
+- SolidWorks
 - Git & GitHub
 
 ---
@@ -26,6 +26,5 @@
 - Fitness App Development  
 
 ---
-
 ## 📫 Connect with me
-- LinkedIn: (add later)
+- 💼 LinkedIn: [Geetika Arya](https://www.linkedin.com/in/geetika-arya-75351624a/)
